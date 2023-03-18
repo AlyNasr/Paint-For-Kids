@@ -7,9 +7,9 @@
 **Drawing area:** White space where a user can draw different figures.   
 **Statusbar:** Displays messages to the user.   
 
-## Supported Actions  
-#### Each action has its corresponding icon in the toolbar.   
-##### *Note: You should click at the icon corresponding to each action before making it.      
+## Supported Actions
+#### Each action has its corresponding icon in the toolbar.  
+##### *Note: You should click at the icon corresponding to each action before making it.     
 **Draw Line:** By clicking at two points.  
 **Draw Rectangle:** By clicking at two corners of a rectangle.  
 **Draw Triangle:** By clicking at three corners of a triangle.  
