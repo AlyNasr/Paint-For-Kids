@@ -29,7 +29,7 @@
 ## Classes Diagram  
 ![Classes_Diagram](ClassesDiagram.png)  
 #### Each class has its own responsibilities.  
-**Input Class:** ALL user inputs must come through this class. If any other class needs to read any input, it must call a member function of the input class.  
+**Input Class:** All user inputs must come through this class. If any other class needs to read any input, it must call a member function of the input class.    
 **Output Class:** This class is responsible for all GUI outputs. It is responsible for toolbar and status bar creation, figures drawing, and for messages printing to the user. If any other class needs to make any output, it must call a member function of the output class.  
 **ApplicationManager Class:** This is the maestro class that controls everything in the application. Its job is to instruct other classes to do their jobs (NOT to do other classes’ jobs). It has pointers to objects of all other classes in the application.  
 **CFigure Class:** This is the base class for all types of figures. To create a new figure type (Circle class for example), it must be inherited from this class. All pure virtual functions in this class must be overridden in its derived classes.  
