@@ -25,6 +25,9 @@
 **Load graph:** Asks the user to enter a file name then load the graph from that file. The file should be existing within the project folder.  
 **Exit:** Terminates the application.  
 
+## Main Classes  
+![Classes_Diagram](ClassesDiagram.png)
+
 
 
 
