@@ -10,10 +10,10 @@
 ## Supported Actions
 #### Each action has its corresponding icon in the toolbar.  
 ##### *Note: You should click at the icon corresponding to each action before making it.     
-**Draw Line:** By clicking at two points of the line.  
-**Draw Rectangle:** By clicking at two corners of the rectangle.  
-**Draw Triangle:** By clicking at three corners of the triangle.  
-**Draw Circle:** By clicking at a center of the circle.  
+**Draw Line:** By clicking at the two points of a line.  
+**Draw Rectangle:** By clicking at the two corners of a rectangle.  
+**Draw Triangle:** By clicking at the three corners of a triangle.  
+**Draw Circle:** By clicking at the center of a circle.  
 **Select a figure:** By clicking at a figure in the drawing area.  
 **Change drawing color:** If a figure is selected, its frame color will be changed. If not, the drawing color for the upcoming figures will be changed.  
 **Change filling color:** If a figure is selected, its filling color will be changed. If not, the filling color for the upcoming figures will be changed.    
