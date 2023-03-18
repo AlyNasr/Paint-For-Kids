@@ -1,4 +1,5 @@
 # OOP C++ Project - Paint For Kids Application
+You can draw different figures as well as changing the drawing and the filling colors. You can copy, cut, paste or delete figures. You can save and load your graphs.     
 ## Application GUI
 ![Application_GUI](Graph.png)
 
