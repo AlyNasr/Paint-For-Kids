@@ -1,5 +1,5 @@
 # OOP C++ Project - Paint For Kids Application
-The application supports drawing different figures as well as changing the drawing and filling colors. It also supports copying, cutting, pasting and deleteing figures. In addition, graphs can be saved to and loaded from text files.  
+The application supports drawing different figures as well as changing their drawing and filling colors. It also supports copying, cutting, pasting and deleteing figures. In addition, graphs can be saved to and loaded from text files.  
 
 ## Application GUI
 ![Application_GUI](Graph.png)
